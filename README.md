@@ -1,2 +1,2 @@
 # goueditor
-goueditor is the UEditor's backend of go language
+It shows the usage of ueditorgoback within [beego](https://beego.me)
