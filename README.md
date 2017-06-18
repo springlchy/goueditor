@@ -147,4 +147,11 @@ func init() {
 
 article.tpl is under the `views` directory.
 
+```
+go build main.go
+```
+```
+main
+```
+
 visit http://localhost:9090/main/article to make a test. Enjoy!
